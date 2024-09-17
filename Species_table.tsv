@@ -1,0 +1,14 @@
+Species	Habitat	Assembly	BUSCO_percentage	BUSCO_complete	BUSCO_Complete_single	BUSCO_Complete_duplicated	BUSCO_Fragmented	BUSCO_Missing	BUSCO_Pseudogene	BUSCO_searched
+Danio_rerio	Surface	GCA_000002035.4	0,9587912088	3490	3460	30	68	39	43	3640
+Percopsis_transmontana	Surface	GCA_025447815.1	0,717032967	2610	2592	18	583	387	60	3640
+Percopsis_omiscomaycus	Surface	GCA_027575585.1	0,6788461538	2471	2456	15	635	478	56	3640
+Aphredoderus_sayanus	Surface	GCA_027564795.1	0,6043956044	2200	2184	16	745	651	44	3640
+Chologaster_cornuta	Surface	GCA_025434125.1	0,3324175824	1210	1199	11	967	1446	17	3640
+Amblyopsis_rosae	troglomorphic_subterranean	GCA_025399935.1	0,6368131868	2318	2298	20	674	598	50	3640
+Speoplatyrhinus_poulsoni	troglomorphic_subterranean	GCA_025447795.1	0,5612637363	2043	2034	9	778	771	48	3640
+Forbesichthys_agassizii	Surface	GCA_026546735.1	0,6590659341	2399	2377	22	643	553	45	3640
+Forbesichthys_papilliferus	Surface	GCA_025399855.1	0,6395604396	2328	2311	17	697	569	46	3640
+Typhlichthys_eigenmanni	troglomorphic_subterranean	GCA_027564635.1	0,6695054945	2437	2418	19	623	528	52	3640
+Amblyopsis_hoosieri	troglomorphic_subterranean	GCA_027564755.1	0,6230769231	2268	2249	19	706	619	47	3640
+Amblyopsis_spelaea	troglomorphic_subterranean	GCA_027564775.1	0,621978022	2264	2246	18	702	629	45	3640
+Typhlichthys_subterraneus	troglomorphic_subterranean	GCA_027564835.1	0,6552197802	2385	2363	22	649	545	61	3640

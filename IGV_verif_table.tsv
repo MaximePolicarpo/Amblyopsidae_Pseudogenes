@@ -1,0 +1,584 @@
+Species	Gene	LoF_Type	Pos_CDS	LoF_Pos	Support_Reads	Non_support_Reads	Note	GeneSet	Individual	Detection method	Description of LoF detected on IGV
+Typhlichthys_eigenmanni	gngt2b	STOP	192	JAODUK010000020.1:1566365	0	23	All reads support GGA instead of TGA	Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	grk1b	STOP	1512	JAODUK010060090.1:1748	43	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	grk1b	STOP	1518	JAODUK010060090.1:1743	39	1	1 read support GAG instead of TAG	Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn6a-2	STOP	372	JAODUK010000007.1:4441269	0	17	All reads support TCA instead of TGA	Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn6a-2	STOP	390	JAODUK010000007.1:4441278	15	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn7c	STOP	495	JAODUK010026396.1:8868	25	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn7c	STOP	780	JAODUK010026396.1:9331	27	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	pde6a	STOP	174	JAODUK010069261.1:10990	20	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Tmt3a	STOP	84	JAODUK010015197.1:21944	33	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	gnat2	Del	876	JAODUK010000022.1:1448296	38	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	grk1b	Del	516	JAODUK010060090.1:6823	19	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	grk7a	Del	388	JAODUK010000009.1:186279	2	29		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	grk7b	Del	543	JAODUK010013016.1:2980	32	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	grk7b	Del	1194	JAODUK010013016.1:948	43	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn7c	Del	442	JAODUK010026396.1:8827	15	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn7c	Del	520	JAODUK010026396.1:8897	26	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn7c	Ins	348	JAODUK010026396.1:8349	21	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn8c	Del	228	JAODUK010014312.1:6536	22	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Rh2.1	Del	263	JAODUK010021188.1:1292	18	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Tmt1b	Del	834	JAODUK010085976.1:22585	15	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	Cryba4	Splice site		JAODUK010000004.1:220726	0	25	All reads support GT instead of AT	Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	gnat2	Splice site		JAODUK010000022.1:1447677	30	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	gngt2b	STOP	192	JAODUK010000020.1:1566365	0	25	All reads support GGA instead of TGA	Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	grk1b	STOP	1512	JAODUK010060090.1:1748	25	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	grk1b	STOP	1518	JAODUK010060090.1:1743	25	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn6a-2	STOP	372	JAODUK010000007.1:4441269	0	29	All reads support TCA instead of TGA	Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn6a-2	STOP	390	JAODUK010000007.1:4441278	32	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn7c	STOP	495	JAODUK010026396.1:8868	20	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn7c	STOP	780	JAODUK010026396.1:9331	34	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	pde6a	STOP	174	JAODUK010069261.1:10990	16	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Tmt3a	STOP	84	JAODUK010015197.1:21944	30	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	gnat2	Del	876	JAODUK010000022.1:1448296	32	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	grk1b	Del	516	JAODUK010060090.1:6823	32	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	grk7a	Del	388	JAODUK010000009.1:186279	2	16		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	grk7b	Del	543	JAODUK010013016.1:2980	16	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	grk7b	Del	1194	JAODUK010013016.1:948	13	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn7c	Del	442	JAODUK010026396.1:8827	18	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn7c	Del	520	JAODUK010026396.1:8897	19	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn7c	Ins	348	JAODUK010026396.1:8349	8	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Opn8c	Del	228	JAODUK010014312.1:6536	19	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Rh2.1	Del	263	JAODUK010021188.1:1292	22	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Tmt1b	Del	834	JAODUK010085976.1:22585	24	0		Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	Cryba4	Splice site		JAODUK010000004.1:220726	0	30	All reads support GT instead of AT	Vision	MLN_0404	Detected on Assembly	
+Typhlichthys_eigenmanni	gnat2	Splice site		JAODUK010000022.1:1447677	25	0		Vision	MLN_0404	Detected on Assembly	
+Amblyopsis_rosae	Cryba1b	STOP	468	JAODTR010040472.1:14724	25	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Cryba2b	STOP	99	JAODTR010000014.1:3963560	29	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Crybb1l1	STOP	243	JAODTR010019647.1:2458	25	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Crygn2	STOP	285	JAODTR010003279.1:4336	24	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	gcap2	STOP	435	JAODTR010012359.1:6160	33	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	grk7a	STOP	267	JAODTR010000009.1:162122	20	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	gucy2f	STOP	123	JAODTR010007055.1:3988	28	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Opn8c	STOP	174	JAODTR010022838.1:23026	48	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	pde6c	STOP	1362	JAODTR010042500.1:17819	27	1	1 read supports TAT instead of TAG	Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	pde6c	STOP	2142	JAODTR010042500.1:15575	20	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	STOP	387	JAODTR010034945.1:1742	15	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	STOP	450	JAODTR010034945.1:1676	17	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	STOP	471	JAODTR010034945.1:1652	14	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	STOP	324	JAODTR010014222.1:22418	34	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	STOP	1476	JAODTR010014222.1:25904	28	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Tmt3a	STOP	711	JAODTR010018501.1:19122	11	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	arr3b	Del	815	JAODTR010000002.1:1196454	32	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Cryba2b	Ins	78	JAODTR010000014.1:3963579	33	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Crybgx	Del	260	JAODTR010009241.1:25589	45	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Crybgx	Del	262	JAODTR010009241.1:25587	45	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	gnat1	Del	878	JAODTR010000020.1:798989	19	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	gnat2	Del	372	JAODTR010000022.1:1305257	40	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	grk1b	Ins	789	JAODTR010035307.1:660	44	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	grk7b	Del	260	JAODTR010017343.1:4244	29	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	grk7b	Del	681	JAODTR010017343.1:5053	15	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Opn4m3	Del	666	JAODTR010023703.1:4172	20	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Opn6a-1	Del	375	JAODTR010044696.1:39798	35	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Opn6a-2	Del	810	JAODTR010047051.1:33416	31	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Parapinopsin-1	Del	204	JAODTR010042887.1:833	19	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Parapinopsin-1	Del	514	JAODTR010042887.1:1965	23	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	pde6b	Del	708	JAODTR010013329.1:2582	0	21		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	pde6b	Del	1108	JAODTR010013329.1:768	26	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	Del	337	JAODTR010034945.1:1761	15	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	Del	753	JAODTR010034945.1:1240	20	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	Ins	786	JAODTR010034945.1:1227	18	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	Del	539	JAODTR010014222.1:22999	27	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	Del	759	JAODTR010014222.1:23743	24	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	Del	1006	JAODTR010014222.1:24419	26	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Rrh	Del	610	JAODTR010000015.1:4447192	41	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	saga	Del	815	JAODTR010000002.1:1196454	32	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Tmt3a	Del	460	JAODTR010018501.1:18893	25	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Opn6a-2	Splice site		JAODTR010047051.1:33341	0	24	24 reads support AG (proper splice site) instead of AA	Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	pde6hb	Splice site		JAODTR010017076.1:22019	0	18	18 reads support AG (proper splice site) instead of AA	Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Cryba1b	STOP	468	JAODTR010040472.1:14724	23	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Cryba2b	STOP	99	JAODTR010000014.1:3963560	15	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Crybb1l1	STOP	243	JAODTR010019647.1:2458	18	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Crygn2	STOP	285	JAODTR010003279.1:4336	28	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	gcap2	STOP	435	JAODTR010012359.1:6160	22	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	grk7a	STOP	267	JAODTR010000009.1:162122	20	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	gucy2f	STOP	123	JAODTR010007055.1:3988	19	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Opn8c	STOP	174	JAODTR010022838.1:23026	28	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	pde6c	STOP	1362	JAODTR010042500.1:17819	23	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	pde6c	STOP	2142	JAODTR010042500.1:15575	28	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	STOP	387	JAODTR010034945.1:1742	16	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	STOP	450	JAODTR010034945.1:1676	13	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	STOP	471	JAODTR010034945.1:1652	17	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	STOP	324	JAODTR010014222.1:22418	25	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	STOP	1476	JAODTR010014222.1:25904	23	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Tmt3a	STOP	711	JAODTR010018501.1:19122	26	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	arr3b	Del	815	JAODTR010000002.1:1196454	24	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Cryba2b	Ins	78	JAODTR010000014.1:3963579	17	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Crybgx	Del	260	JAODTR010009241.1:25589	40	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Crybgx	Del	262	JAODTR010009241.1:25587	40	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	gnat1	Del	878	JAODTR010000020.1:798989	24	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	gnat2	Del	372	JAODTR010000022.1:1305257	19	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	grk1b	Ins	789	JAODTR010035307.1:660	21	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	grk7b	Del	260	JAODTR010017343.1:4244	21	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	grk7b	Del	681	JAODTR010017343.1:5053	25	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Opn4m3	Del	666	JAODTR010023703.1:4172	23	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Opn6a-1	Del	375	JAODTR010044696.1:39798	39	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Opn6a-2	Del	810	JAODTR010047051.1:33416	19	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Parapinopsin-1	Del	204	JAODTR010042887.1:833	19	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Parapinopsin-1	Del	514	JAODTR010042887.1:1965	29	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	pde6b	Del	708	JAODTR010013329.1:2582	3	21		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	pde6b	Del	1108	JAODTR010013329.1:768	10	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	Del	337	JAODTR010034945.1:1761	12	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	Del	753	JAODTR010034945.1:1240	20	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	Ins	786	JAODTR010034945.1:1227	21	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	Del	539	JAODTR010014222.1:22999	18	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	Del	759	JAODTR010014222.1:23743	17	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	Del	1006	JAODTR010014222.1:24419	16	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Rrh	Del	610	JAODTR010000015.1:4447192	23	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	saga	Del	815	JAODTR010000002.1:1196454	24	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Tmt3a	Del	460	JAODTR010018501.1:18893	23	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Opn6a-2	Splice site		JAODTR010047051.1:33341	0	20	20 reads support AG (proper splice site) instead of AA	Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	pde6hb	Splice site		JAODTR010017076.1:22019	0	25	25 reads support AG (proper splice site) instead of AA	Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Cryba1b	STOP	468	JAODTR010040472.1:14724	14	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Cryba2b	STOP	99	JAODTR010000014.1:3963560	24	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Crybb1l1	STOP	243	JAODTR010019647.1:2458	15	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Crygn2	STOP	285	JAODTR010003279.1:4336	19	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	gcap2	STOP	435	JAODTR010012359.1:6160	32	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	grk7a	STOP	267	JAODTR010000009.1:162122	23	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	gucy2f	STOP	123	JAODTR010007055.1:3988	32	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Opn8c	STOP	174	JAODTR010022838.1:23026	38	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	pde6c	STOP	1362	JAODTR010042500.1:17819	25	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	pde6c	STOP	2142	JAODTR010042500.1:15575	20	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	STOP	387	JAODTR010034945.1:1742	25	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	STOP	450	JAODTR010034945.1:1676	20	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	STOP	471	JAODTR010034945.1:1652	17	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	STOP	324	JAODTR010014222.1:22418	20	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	STOP	1476	JAODTR010014222.1:25904	37	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Tmt3a	STOP	711	JAODTR010018501.1:19122	26	2	1 read supports GAG and 1 read supports TTG instead of TAG	Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	arr3b	Del	815	JAODTR010000002.1:1196454	24	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Cryba2b	Ins	78	JAODTR010000014.1:3963579	16	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Crybgx	Del	260	JAODTR010009241.1:25589	43	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Crybgx	Del	262	JAODTR010009241.1:25587	41	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	gnat1	Del	878	JAODTR010000020.1:798989	25	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	gnat2	Del	372	JAODTR010000022.1:1305257	34	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	grk1b	Ins	789	JAODTR010035307.1:660	19	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	grk7b	Del	260	JAODTR010017343.1:4244	26	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	grk7b	Del	681	JAODTR010017343.1:5053	33	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Opn4m3	Del	666	JAODTR010023703.1:4172	38	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Opn6a-1	Del	375	JAODTR010044696.1:39798	22	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Opn6a-2	Del	810	JAODTR010047051.1:33416	27	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Parapinopsin-1	Del	204	JAODTR010042887.1:833	21	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Parapinopsin-1	Del	514	JAODTR010042887.1:1965	23	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	pde6b	Del	708	JAODTR010013329.1:2582	15	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	pde6b	Del	1108	JAODTR010013329.1:768	20	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	Del	337	JAODTR010034945.1:1761	25	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	Del	753	JAODTR010034945.1:1240	18	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rh2.1	Ins	786	JAODTR010034945.1:1227	16	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	Del	539	JAODTR010014222.1:22999	25	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	Del	759	JAODTR010014222.1:23743	36	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rpe65b	Del	1006	JAODTR010014222.1:24419	23	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Rrh	Del	610	JAODTR010000015.1:4447192	20	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	saga	Del	815	JAODTR010000002.1:1196454	24	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Tmt3a	Del	460	JAODTR010018501.1:18893	26	0		Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	Opn6a-2	Splice site		JAODTR010047051.1:33341	14	8	8 reads support AG (proper splice site) instead of AA	Vision	L1	Detected on Assembly	
+Amblyopsis_rosae	pde6hb	Splice site		JAODTR010017076.1:22019	24	0		Vision	L1	Detected on Assembly	
+Amblyopsis_hoosieri	gnat2	STOP	954	JAODUE010000016.1:1381958	24	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	grk7b	STOP	810	JAODUE010005152.1:8670	18	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	Opn6a-1	STOP	309	JAODUE010003632.1:2613	24	1	1 read supports TGT and 1 reads supports AGA instead of TGA	Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	Opn6a-1	STOP	318	JAODUE010003632.1:2605	23	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	Opn6a-2	STOP	573	JAODUE010000007.1:4259615	17	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	pde6b	STOP	1182	JAODUE010036857.1:2839	15	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	Cryba4	Del	79	JAODUE010000004.1:161658	22	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	gc2	Del	2280	JAODUE010001467.1:9457	32	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	gc2	Ins	2823	JAODUE010001467.1:11794	15	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	gc2	Ins	2892	JAODUE010001467.1:11867	18	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	grk1b	Del	478	JAODUE010058765.1:6436	16	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	grk7b	Del	108	JAODUE010005152.1:7528	17	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	Rh2.1	Del	732	JAODUE010004562.1:2604	35	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	Rh2.1	Start loss		JAODUE010004562.1:906	25	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	gnat2	STOP	954	JAODUE010000016.1:1381958	26	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	grk7b	STOP	810	JAODUE010005152.1:8670	14	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	Opn6a-1	STOP	309	JAODUE010003632.1:2613	25	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	Opn6a-1	STOP	318	JAODUE010003632.1:2605	26	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	Opn6a-2	STOP	573	JAODUE010000007.1:4259615	34	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	pde6b	STOP	1182	JAODUE010036857.1:2839	15	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	Cryba4	Del	79	JAODUE010000004.1:161658	29	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	gc2	Del	2280	JAODUE010001467.1:9457	32	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	gc2	Ins	2823	JAODUE010001467.1:11794	16	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	gc2	Ins	2892	JAODUE010001467.1:11867	13	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	grk1b	Del	478	JAODUE010058765.1:6436	18	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	grk7b	Del	108	JAODUE010005152.1:7528	28	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	Rh2.1	Del	732	JAODUE010004562.1:2604	30	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	Rh2.1	Start loss		JAODUE010004562.1:906	26	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	gnat2	STOP	954	JAODUE010000016.1:1381958	40	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	grk7b	STOP	810	JAODUE010005152.1:8670	36	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	Opn6a-1	STOP	309	JAODUE010003632.1:2613	29	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	Opn6a-1	STOP	318	JAODUE010003632.1:2605	30	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	Opn6a-2	STOP	573	JAODUE010000007.1:4259615	45	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	pde6b	STOP	1182	JAODUE010036857.1:2839	27	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	Cryba4	Del	79	JAODUE010000004.1:161658	36	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	gc2	Del	2280	JAODUE010001467.1:9457	25	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	gc2	Ins	2823	JAODUE010001467.1:11794	14	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	gc2	Ins	2892	JAODUE010001467.1:11867	9	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	grk1b	Del	478	JAODUE010058765.1:6436	28	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	grk7b	Del	108	JAODUE010005152.1:7528	32	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	Rh2.1	Del	732	JAODUE010004562.1:2604	31	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	Rh2.1	Start loss		JAODUE010004562.1:906	32	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_spelaea	gnat2	STOP	579	JAODUF010000016.1:1425865	19	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	gnat2	STOP	954	JAODUF010000016.1:1427057	19	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	grk7a	STOP	1332	JAODUF010000009.1:210040	35	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	grk7b	STOP	810	JAODUF010009609.1:1507	22	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	Opn6a-2	STOP	573	JAODUF010000007.1:4156268	17	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	Opn7c	STOP	495	JAODUF010009829.1:647	16	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	Opn7c	STOP	780	JAODUF010009829.1:1772	14	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	pde6b	STOP	1182	JAODUF010026873.1:4902	36	1	1 read supports GAG instead of TAG	Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	Rh1.1	STOP	552	JAODUF010000022.1:2615194	29	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	Rpe65a	STOP	165	JAODUF010000009.1:2381481	0	28	28 reads support GAA instead of TAA	Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	Cryba4	Del	79	JAODUF010000004.1:176586	21	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	grk1b	Del	478	JAODUF010043366.1:9036	22	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	grk7a	Ins	1062	JAODUF010000009.1:210556	17	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	grk7a	Ins	1164	JAODUF010000009.1:210453	19	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	grk7b	Del	108	JAODUF010009609.1:2653	25	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	Opn7c	Del	462	JAODUF010009829.1:622	13	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	pde6a	Del	131	JAODUF010014843.1:5310	29	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	pde6b	Del	1539	JAODUF010026873.1:3292	17	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	Rh2.1	Del	732	JAODUF010008747.1:6324	20	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	Rh2.1	Start loss	3	JAODUF010008747.1:8021	23	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	Cryba1b	Splice site		JAODUF010042701.1:4847	25	0		Vision	YFTC_23868	Detected on Assembly	
+Amblyopsis_spelaea	gnat2	STOP	579	JAODUF010000016.1:1425865	24	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	gnat2	STOP	954	JAODUF010000016.1:1427057	16	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	grk7a	STOP	1332	JAODUF010000009.1:210040	17	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	grk7b	STOP	810	JAODUF010009609.1:1507	15	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	Opn6a-2	STOP	573	JAODUF010000007.1:4156268	32	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	Opn7c	STOP	495	JAODUF010009829.1:647	20	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	Opn7c	STOP	780	JAODUF010009829.1:1772	20	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	pde6b	STOP	1182	JAODUF010026873.1:4902	4	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	Rh1.1	STOP	552	JAODUF010000022.1:2615194	19	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	Rpe65a	STOP	165	JAODUF010000009.1:2381481	0	25	25 reads support GAA instead of TAA	Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	Cryba4	Del	79	JAODUF010000004.1:176586	19	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	grk1b	Del	478	JAODUF010043366.1:9036	15	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	grk7a	Ins	1062	JAODUF010000009.1:210556	17	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	grk7a	Ins	1164	JAODUF010000009.1:210453	23	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	grk7b	Del	108	JAODUF010009609.1:2653	19	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	Opn7c	Del	462	JAODUF010009829.1:622	16	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	pde6a	Del	131	JAODUF010014843.1:5310	28	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	pde6b	Del	1539	JAODUF010026873.1:3292	25	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	Rh2.1	Del	732	JAODUF010008747.1:6324	19	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	Rh2.1	Start loss	3	JAODUF010008747.1:8021	18	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	Cryba1b	Splice site		JAODUF010042701.1:4847	30	0		Vision	YFTC_23869	Detected on Assembly	
+Amblyopsis_spelaea	gnat2	STOP	579	JAODUF010000016.1:1425865	28	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	gnat2	STOP	954	JAODUF010000016.1:1427057	21	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	grk7a	STOP	1332	JAODUF010000009.1:210040	27	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	grk7b	STOP	810	JAODUF010009609.1:1507	28	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	Opn6a-2	STOP	573	JAODUF010000007.1:4156268	32	1	1 read supports TAT instead of TAG	Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	Opn7c	STOP	495	JAODUF010009829.1:647	26	1	1 read support AAA instead of TAA	Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	Opn7c	STOP	780	JAODUF010009829.1:1772	17	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	pde6b	STOP	1182	JAODUF010026873.1:4902	19	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	Rh1.1	STOP	552	JAODUF010000022.1:2615194	30	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	Rpe65a	STOP	165	JAODUF010000009.1:2381481	14	8	8 reads support GAA instead of TAA	Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	Cryba4	Del	79	JAODUF010000004.1:176586	26	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	grk1b	Del	478	JAODUF010043366.1:9036	21	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	grk7a	Ins	1062	JAODUF010000009.1:210556	32	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	grk7a	Ins	1164	JAODUF010000009.1:210453	24	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	grk7b	Del	108	JAODUF010009609.1:2653	12	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	Opn7c	Del	462	JAODUF010009829.1:622	30	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	pde6a	Del	131	JAODUF010014843.1:5310	23	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	pde6b	Del	1539	JAODUF010026873.1:3292	29	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	Rh2.1	Del	732	JAODUF010008747.1:6324	27	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	Rh2.1	Start loss	3	JAODUF010008747.1:8021	29	0		Vision	YFTC_23875	Detected on Assembly	
+Amblyopsis_spelaea	Cryba1b	Splice site		JAODUF010042701.1:4847	24	0		Vision	YFTC_23875	Detected on Assembly	
+Typhlichthys_subterraneus	arr3b	STOP	228	JAODUH010000002.1:1298410	11	7	7 reads support TGG instead of TGA	Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Crybb1	STOP	540	JAODUH010000004.1:244121	28	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Crybgx	STOP	294	JAODUH010070777.1:35205	20	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Exorh	STOP	708	JAODUH010033234.1:5870	1	14	14 reads support TTG instead of TAG	Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	STOP	975	JAODUH010022154.1:434	36	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Lws1	STOP	150	JAODUH010060728.1:4432	27	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Opn6a-2	STOP	219	JAODUH010000007.1:4531299	30	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	STOP	495	JAODUH010007698.1:7368	14	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	STOP	780	JAODUH010007698.1:7798	20	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	rcv2a	STOP	159	JAODUH010023110.1:18872	28	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Rh1.1	STOP	996	JAODUH010000022.1:2903082	10	7		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Cryba4	Del	445	JAODUH010000004.1:247717	22	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	gc2	Del	2018	JAODUH010020011.1:10490	30	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	gc2	Del	2709	JAODUH010020011.1:8332	19	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	gnat2	Del	876	JAODUH010000022.1:1407489	27	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	Del	516	JAODUH010008594.1:2577	23	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	Del	560	JAODUH010008594.1:2605	21	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	55	JAODUH010022154.1:1714	40	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	522	JAODUH010022154.1:1240	19	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	803	JAODUH010022154.1:564	27	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Ins	314	JAODUH010017193.1:3404	30	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	480	JAODUH010017193.1:3556	20	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	543	JAODUH010017193.1:3587	16	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	1194	JAODUH010017193.1:5616	32	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Lws1	Del	316	JAODUH010060728.1:4592	34	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	Ins	348	JAODUH010007698.1:6844	15	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	Del	442	JAODUH010007698.1:7327	15	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	opn7e	Del	429	JAODUH010023504.1:19707	13	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Parietopsin	Del	167	JAODUH010010236.1:9156	28	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	pde6b	Ins	186	JAODUH010013866.1:5050	21	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	pde6b	Del	225	JAODUH010013866.1:5010	21	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Rh2.1	Del	263	JAODUH010078008.1:8501	21	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	saga	Del	155	JAODUH010045176.1:1802	21	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Tmt1b	Del	604	JAODUH010060340.1:17099	37	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	Crygn2	Start loss	3	JAODUH010007210.1:5425	12	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	gcap3	Start loss	3	JAODUH010006204.1:818	19	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	arr3b	STOP	228	JAODUH010000002.1:1298410	0	32	32 reads support TGG instead of TGA	Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Crybb1	STOP	540	JAODUH010000004.1:244121	15	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Crybgx	STOP	294	JAODUH010070777.1:35205	22	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Exorh	STOP	708	JAODUH010033234.1:5870	2	20	20 reads support TTG instead of TAG	Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	STOP	975	JAODUH010022154.1:434	32	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Lws1	STOP	150	JAODUH010060728.1:4432	0	17	17 reads support TAT instead of TAA	Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Opn6a-2	STOP	219	JAODUH010000007.1:4531299	25	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	STOP	495	JAODUH010007698.1:7368	24	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	STOP	780	JAODUH010007698.1:7798	15	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	rcv2a	STOP	159	JAODUH010023110.1:18872	26	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Rh1.1	STOP	996	JAODUH010000022.1:2903082	0	21	21 reads support GAA instead of TAA	Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Cryba4	Del	445	JAODUH010000004.1:247717	28	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	gc2	Del	2018	JAODUH010020011.1:10490	32	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	gc2	Del	2709	JAODUH010020011.1:8332	15	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	gnat2	Del	876	JAODUH010000022.1:1407489	27	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	Del	516	JAODUH010008594.1:2577	16	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	Del	560	JAODUH010008594.1:2605	12	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	55	JAODUH010022154.1:1714	42	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	522	JAODUH010022154.1:1240	29	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	803	JAODUH010022154.1:564	38	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Ins	314	JAODUH010017193.1:3404	13	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	480	JAODUH010017193.1:3556	18	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	543	JAODUH010017193.1:3587	14	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	1194	JAODUH010017193.1:5616	13	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Lws1	Del	316	JAODUH010060728.1:4592	17	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	Ins	348	JAODUH010007698.1:6844	2	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	Del	442	JAODUH010007698.1:7327	25	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	opn7e	Del	429	JAODUH010023504.1:19707	28	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Parietopsin	Del	167	JAODUH010010236.1:9156	21	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	pde6b	Ins	186	JAODUH010013866.1:5050	12	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	pde6b	Del	225	JAODUH010013866.1:5010	18	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Rh2.1	Del	263	JAODUH010078008.1:8501	15	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	saga	Del	155	JAODUH010045176.1:1802	27	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Tmt1b	Del	604	JAODUH010060340.1:17099	13	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	Crygn2	Start loss	3	JAODUH010007210.1:5425	16	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	gcap3	Start loss	3	JAODUH010006204.1:818	31	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	arr3b	STOP	228	JAODUH010000002.1:1298410	0	52	52 reads support TGG instead of TGA	Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Crybb1	STOP	540	JAODUH010000004.1:244121	0	21	21 reads support TAC instead of TAA	Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Crybgx	STOP	294	JAODUH010070777.1:35205	0	29	29 reads support TGC instead of TGA	Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Exorh	STOP	708	JAODUH010033234.1:5870	2	34	34 reads support TTG instead of TAG	Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	STOP	975	JAODUH010022154.1:434	0	34	34 reads support TGC instead of TGA	Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Lws1	STOP	150	JAODUH010060728.1:4432	0	52	52 reads support TAT instead of TAA	Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Opn6a-2	STOP	219	JAODUH010000007.1:4531299	0	44	44 reads support TTA instead of TGA	Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	STOP	495	JAODUH010007698.1:7368	51	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	STOP	780	JAODUH010007698.1:7798	44	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	rcv2a	STOP	159	JAODUH010023110.1:18872	1	43	43 reads support TAC instead of TAG	Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Rh1.1	STOP	996	JAODUH010000022.1:2903082	0	30	30 reads support GAA instead of TAA	Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Cryba4	Del	445	JAODUH010000004.1:247717	0	44		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	gc2	Del	2018	JAODUH010020011.1:10490	3	40		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	gc2	Del	2709	JAODUH010020011.1:8332	2	36		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	gnat2	Del	876	JAODUH010000022.1:1407489	37	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	Del	516	JAODUH010008594.1:2577	28	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	Del	560	JAODUH010008594.1:2605	0	20		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	55	JAODUH010022154.1:1714	2	23		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	522	JAODUH010022154.1:1240	4	45		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	803	JAODUH010022154.1:564	3	30		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Ins	314	JAODUH010017193.1:3404	0	32		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	480	JAODUH010017193.1:3556	0	39		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	543	JAODUH010017193.1:3587	41	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	1194	JAODUH010017193.1:5616	31	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Lws1	Del	316	JAODUH010060728.1:4592	2	34		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	Ins	348	JAODUH010007698.1:6844	40	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	Del	442	JAODUH010007698.1:7327	41	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	opn7e	Del	429	JAODUH010023504.1:19707	43	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Parietopsin	Del	167	JAODUH010010236.1:9156	1	37		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	pde6b	Ins	186	JAODUH010013866.1:5050	0	19		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	pde6b	Del	225	JAODUH010013866.1:5010	0	22		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Rh2.1	Del	263	JAODUH010078008.1:8501	29	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	saga	Del	155	JAODUH010045176.1:1802	0	26		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Tmt1b	Del	604	JAODUH010060340.1:17099	0	38		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	Crygn2	Start loss	3	JAODUH010007210.1:5425	0	33		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	gcap3	Start loss	3	JAODUH010006204.1:818	0	41		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	arr3b	STOP	228	JAODUH010000002.1:1298410	0	30	30 reads support TGG instead of TGA	Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Crybb1	STOP	540	JAODUH010000004.1:244121	20	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Crybgx	STOP	294	JAODUH010070777.1:35205	0	29	29 reads support TGC instead of TGA	Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Exorh	STOP	708	JAODUH010033234.1:5870	1	28	28 reads support TTG instead of TAG	Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	STOP	975	JAODUH010022154.1:434	0	19	19 reads support TGC instead of TGA	Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Lws1	STOP	150	JAODUH010060728.1:4432	0	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Opn6a-2	STOP	219	JAODUH010000007.1:4531299	0	27	27 reads support TTA instead of TGA	Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	STOP	495	JAODUH010007698.1:7368	21	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	STOP	780	JAODUH010007698.1:7798	30	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	rcv2a	STOP	159	JAODUH010023110.1:18872	10	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Rh1.1	STOP	996	JAODUH010000022.1:2903082	0	25	25 reads support GAA instead of TAA	Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Cryba4	Del	445	JAODUH010000004.1:247717	0	30		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	gc2	Del	2018	JAODUH010020011.1:10490	1	24		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	gc2	Del	2709	JAODUH010020011.1:8332	2	25		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	gnat2	Del	876	JAODUH010000022.1:1407489	29	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	Del	516	JAODUH010008594.1:2577	22	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	Del	560	JAODUH010008594.1:2605	7	12		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	55	JAODUH010022154.1:1714	5	27		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	522	JAODUH010022154.1:1240	0	18		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	803	JAODUH010022154.1:564	9	11		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Ins	314	JAODUH010017193.1:3404	0	19		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	480	JAODUH010017193.1:3556	0	16		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	543	JAODUH010017193.1:3587	16	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	1194	JAODUH010017193.1:5616	19	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Lws1	Del	316	JAODUH010060728.1:4592	0	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	Ins	348	JAODUH010007698.1:6844	22	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	Del	442	JAODUH010007698.1:7327	25	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	opn7e	Del	429	JAODUH010023504.1:19707	23	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Parietopsin	Del	167	JAODUH010010236.1:9156	19	25		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	pde6b	Ins	186	JAODUH010013866.1:5050	0	21		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	pde6b	Del	225	JAODUH010013866.1:5010	0	25		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Rh2.1	Del	263	JAODUH010078008.1:8501	31	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	saga	Del	155	JAODUH010045176.1:1802	0	29		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Tmt1b	Del	604	JAODUH010060340.1:17099	26	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	Crygn2	Start loss	3	JAODUH010007210.1:5425	0	22		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	gcap3	Start loss	3	JAODUH010006204.1:818	0	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	arr3b	STOP	228	JAODUH010000002.1:1298410	14	22	22 reads support TGG instead of TGA	Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Crybb1	STOP	540	JAODUH010000004.1:244121	20	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Crybgx	STOP	294	JAODUH010070777.1:35205	20	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Exorh	STOP	708	JAODUH010033234.1:5870	0	6	6 reads support TTG instead of TAG	Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	STOP	975	JAODUH010022154.1:434	27	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Lws1	STOP	150	JAODUH010060728.1:4432	0	26	26 reads support TAT instead of TAA	Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Opn6a-2	STOP	219	JAODUH010000007.1:4531299	32	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	STOP	495	JAODUH010007698.1:7368	14	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	STOP	780	JAODUH010007698.1:7798	31	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	rcv2a	STOP	159	JAODUH010023110.1:18872	21	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Rh1.1	STOP	996	JAODUH010000022.1:2903082	17	2	1 read supports GAA and 1 read supports AAA instead of TAA	Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Cryba4	Del	445	JAODUH010000004.1:247717	22	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	gc2	Del	2018	JAODUH010020011.1:10490	14	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	gc2	Del	2709	JAODUH010020011.1:8332	19	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	gnat2	Del	876	JAODUH010000022.1:1407489	30	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	Del	516	JAODUH010008594.1:2577	32	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	Del	560	JAODUH010008594.1:2605	25	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	55	JAODUH010022154.1:1714	20	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	522	JAODUH010022154.1:1240	26	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk7a	Del	803	JAODUH010022154.1:564	24	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Ins	314	JAODUH010017193.1:3404	16	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	480	JAODUH010017193.1:3556	17	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	543	JAODUH010017193.1:3587	17	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk7b	Del	1194	JAODUH010017193.1:5616	22	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Lws1	Del	316	JAODUH010060728.1:4592	26	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	Ins	348	JAODUH010007698.1:6844	6	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Opn7c	Del	442	JAODUH010007698.1:7327	15	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	opn7e	Del	429	JAODUH010023504.1:19707	14	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Parietopsin	Del	167	JAODUH010010236.1:9156	31	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	pde6b	Ins	186	JAODUH010013866.1:5050	26	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	pde6b	Del	225	JAODUH010013866.1:5010	26	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Rh2.1	Del	263	JAODUH010078008.1:8501	17	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	saga	Del	155	JAODUH010045176.1:1802	22	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Tmt1b	Del	604	JAODUH010060340.1:17099	18	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	Crygn2	Start loss	3	JAODUH010007210.1:5425	16	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	gcap3	Start loss	3	JAODUH010006204.1:818	26	0		Vision	UAIC_14148	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Cryaa	STOP	330	JAOEGT010062507.1:691	10	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Opn5	STOP	291	JAOEGT010052724.1:3349	20	1	(1 read supports AAG instead of TAG)	Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Opn7c	STOP	495	JAOEGT010048462.1:3316	8	1	(1 read supports AAA instead of TAA)	Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Opn7c	STOP	780	JAOEGT010048462.1:2869	11	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Parietopsin	STOP	696	JAOEGT010053617.1:368	16	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	pde6a	STOP	2244	JAOEGT010092635.1:4913	15	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	grk7a	Ins	66	JAOEGT010000009.1:145920	13	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Opn4x2	Ins	594	JAOEGT010071809.1:14450	25	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Opn5	Del	295	JAOEGT010052724.1:3325	22	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Opn6a-1	Del	466	JAOEGT010010040.1:7717	13	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Opn6a-1	Ins	609	JAOEGT010010040.1:8253	16	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Opn6a-1	Ins	738	JAOEGT010010040.1:8379	15	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Opn7c	Ins	348	JAOEGT010048462.1:3830	9	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Opn7c	Ins	453	JAOEGT010048462.1:3356	7	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Speoplatyrhinus_poulsoni	Parietopsin	Del	573	JAOEGT010053617.1:866	15	0		Vision	IRGN_2EJSDHOURK	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	144	JAODVN010130139.1:1652	22	0		Vision	CCOR_08	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	144	JAODVN010130139.1:1652	29	0		Vision	CCOR_10	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	144	JAODVN010130139.1:1652	5	0		Vision	DAN_286	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	144	JAODVN010130139.1:1652	34	0		Vision	IRGN_MJ4ODY4U1A	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	495	JAODVN010130139.1:2542	25	0		Vision	CCOR_08	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	495	JAODVN010130139.1:2542	35	0		Vision	CCOR_10	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	495	JAODVN010130139.1:2542	15	0		Vision	DAN_286	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	495	JAODVN010130139.1:2542	38	0		Vision	IRGN_MJ4ODY4U1A	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	777	JAODVN010130139.1:2998	19	0		Vision	CCOR_08	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	777	JAODVN010130139.1:2998	30	0		Vision	CCOR_10	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	777	JAODVN010130139.1:2998	14	0		Vision	DAN_286	Detected on Assembly	
+Chologaster_cornuta	Opn7c	STOP	777	JAODVN010130139.1:2998	21	0		Vision	IRGN_MJ4ODY4U1A	Detected on Assembly	
+Chologaster_cornuta	Opn7c	Ins	636	JAODVN010130139.1:2676	27	0		Vision	CCOR_08	Detected on Assembly	
+Chologaster_cornuta	Opn7c	Ins	636	JAODVN010130139.1:2676	29	0		Vision	CCOR_10	Detected on Assembly	
+Chologaster_cornuta	Opn7c	Ins	636	JAODVN010130139.1:2676	19	0		Vision	DAN_286	Detected on Assembly	
+Chologaster_cornuta	Opn7c	Ins	636	JAODVN010130139.1:2676	33	0		Vision	IRGN_MJ4ODY4U1A	Detected on Assembly	
+Chologaster_cornuta	Opn7c	Del	459	JAODVN010130139.1:2505	22	0		Vision	CCOR_08	Detected on Assembly	
+Chologaster_cornuta	Opn7c	Del	459	JAODVN010130139.1:2505	36	0		Vision	CCOR_10	Detected on Assembly	
+Chologaster_cornuta	Opn7c	Del	459	JAODVN010130139.1:2505	13	0		Vision	DAN_286	Detected on Assembly	
+Chologaster_cornuta	Opn7c	Del	459	JAODVN010130139.1:2505	34	0		Vision	IRGN_MJ4ODY4U1A	Detected on Assembly	
+Chologaster_cornuta	Parietopsin	STOP	486	JAODVN010167844.1:1801	31	0		Vision	CCOR_08	Detected on Assembly	
+Chologaster_cornuta	Parietopsin	STOP	486	JAODVN010167844.1:1801	20	0		Vision	CCOR_10	Detected on Assembly	
+Chologaster_cornuta	Parietopsin	STOP	486	JAODVN010167844.1:1801	13	0		Vision	DAN_286	Detected on Assembly	
+Chologaster_cornuta	Parietopsin	STOP	486	JAODVN010167844.1:1801	26	0		Vision	IRGN_MJ4ODY4U1A	Detected on Assembly	
+Typhlichthys_subterraneus	Opn6a-1	Del	664	JAODUH010020691.1	0	29		Vision	MLN_18	Detected on IGV	Del of 2 bp
+Typhlichthys_subterraneus	Opn6a-1	Del	664	JAODUH010020691.1:13,469	0	23		Vision	MLN_0051	Detected on IGV	Del of 2 bp
+Typhlichthys_subterraneus	Opn6a-1	Del	664	JAODUH010020691.1:13,469	0	53		Vision	MLN_0272	Detected on IGV	Del of 2 bp
+Typhlichthys_subterraneus	Opn6a-1	Del	664	JAODUH010020691.1:13,469	0	36		Vision	MLN_0296	Detected on IGV	Del of 2 bp
+Typhlichthys_subterraneus	Opn6a-1	Del	664	JAODUH010020691.1:13,469	15	0		Vision	UAIC_14148	Detected on IGV	Del of 2 bp
+Typhlichthys_subterraneus	Rpe65b	Ins	723	JAODUH010049095.1	0	27		Vision	MLN_18	Detected on IGV	Ins of 2 bp
+Typhlichthys_subterraneus	Rpe65b	Ins	723	JAODUH010049095.1:3903	0	21		Vision	MLN_0051	Detected on IGV	Ins of 2 bp
+Typhlichthys_subterraneus	Rpe65b	Ins	723	JAODUH010049095.1:3903	0	31		Vision	MLN_0272	Detected on IGV	Ins of 2 bp
+Typhlichthys_subterraneus	Rpe65b	Ins	723	JAODUH010049095.1:3903	0	32		Vision	MLN_0296	Detected on IGV	Ins of 2 bp
+Typhlichthys_subterraneus	Rpe65b	Ins	723	JAODUH010049095.1:3903	24	1		Vision	UAIC_14148	Detected on IGV	Ins of 2 bp
+Typhlichthys_subterraneus	arr3a	STOP	879	JAODUH010093913.1	0	26		Vision	MLN_18	Detected on IGV	AAA=>TAA
+Typhlichthys_subterraneus	arr3a	STOP	879	JAODUH010093913.1:7859	0	8		Vision	MLN_0051	Detected on IGV	AAA=>TAA
+Typhlichthys_subterraneus	arr3a	STOP	879	JAODUH010093913.1:7859	0	22		Vision	MLN_0272	Detected on IGV	AAA=>TAA
+Typhlichthys_subterraneus	arr3a	STOP	879	JAODUH010093913.1:7859	0	16		Vision	MLN_0296	Detected on IGV	AAA=>TAA
+Typhlichthys_subterraneus	arr3a	STOP	879	JAODUH010093913.1:7859	26	1		Vision	UAIC_14148	Detected on IGV	AAA=>TAA
+Typhlichthys_subterraneus	gnat2	STOP	213	JAODUH010000022.1:1404468	0	24		Vision	MLN_18	Detected on IGV	TCA=>TAA
+Typhlichthys_subterraneus	gnat2	STOP	213	JAODUH010000022.1:1404468	0	25		Vision	MLN_0051	Detected on IGV	TCA=>TAA
+Typhlichthys_subterraneus	gnat2	STOP	213	JAODUH010000022.1:1404468	0	29		Vision	MLN_0272	Detected on IGV	TCA=>TAA
+Typhlichthys_subterraneus	gnat2	STOP	213	JAODUH010000022.1:1404468	0	17		Vision	MLN_0296	Detected on IGV	TCA=>TAA
+Typhlichthys_subterraneus	gnat2	STOP	213	JAODUH010000022.1:1404468	12	1		Vision	UAIC_14148	Detected on IGV	TCA=>TAA
+Typhlichthys_subterraneus	gnat2	Ins	375	JAODUH010000022.1:1404743	0	20		Vision	MLN_18	Detected on IGV	Ins of 5 bp
+Typhlichthys_subterraneus	gnat2	Ins	375	JAODUH010000022.1:1404743	0	31		Vision	MLN_0051	Detected on IGV	Ins of 5 bp
+Typhlichthys_subterraneus	gnat2	Ins	375	JAODUH010000022.1:1404743	0	36		Vision	MLN_0272	Detected on IGV	Ins of 5 bp
+Typhlichthys_subterraneus	gnat2	Ins	375	JAODUH010000022.1:1404743	0	16		Vision	MLN_0296	Detected on IGV	Ins of 5 bp
+Typhlichthys_subterraneus	gnat2	Ins	375	JAODUH010000022.1:1404743	14	0		Vision	UAIC_14148	Detected on IGV	Ins of 5 bp
+Typhlichthys_subterraneus	grk7a	Del	183	JAODUH010022154.1:1586	0	36		Vision	MLN_18	Detected on IGV	Del of 5 bp
+Typhlichthys_subterraneus	grk7a	Del	183	JAODUH010022154.1:1586	0	31		Vision	MLN_0051	Detected on IGV	Del of 5 bp
+Typhlichthys_subterraneus	grk7a	Del	183	JAODUH010022154.1:1586	0	37		Vision	MLN_0272	Detected on IGV	Del of 5 bp
+Typhlichthys_subterraneus	grk7a	Del	183	JAODUH010022154.1:1586	0	26		Vision	MLN_0296	Detected on IGV	Del of 5 bp
+Typhlichthys_subterraneus	grk7a	Del	183	JAODUH010022154.1:1586	16	0		Vision	UAIC_14148	Detected on IGV	Del of 5 bp
+Forbesichthys_agassizii	Opn7c	STOP	495	JAODLL010014503.1:16988	28	0		Vision	UTC_242	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	STOP	495	JAODLL010014503.1:16988	25	0		Vision	UTC_243	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	STOP	495	JAODLL010014503.1:16988	21	0		Vision	UTC_649	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	STOP	606	JAODLL010014503.1:16891	28	0		Vision	UTC_242	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	STOP	606	JAODLL010014503.1:16891	18	0		Vision	UTC_243	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	STOP	606	JAODLL010014503.1:16891	16	0		Vision	UTC_649	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	STOP	780	JAODLL010014503.1:16422	20	0		Vision	UTC_242	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	STOP	780	JAODLL010014503.1:16422	19	0		Vision	UTC_243	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	STOP	780	JAODLL010014503.1:16422	25	0		Vision	UTC_649	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	Del	462	JAODLL010014503.1:17018	21	0		Vision	UTC_242	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	Del	462	JAODLL010014503.1:17018	24	0		Vision	UTC_243	Detected on Assembly	
+Forbesichthys_agassizii	Opn7c	Del	462	JAODLL010014503.1:17018	35	0		Vision	UTC_649	Detected on Assembly	
+Typhlichthys_eigenmanni	opn7e	Del	429	JAODUK010082935.1:12890	36	0		Vision	EN1	Detected on Assembly	
+Typhlichthys_eigenmanni	opn7e	Del	429	JAODUK010082935.1:12890	29	0		Vision	MLN_0404	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	Del	462	JAODOY010000300.1:13415	38	0		Vision	FPAP_01	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	Del	462	JAODOY010000300.1:13415	21	0		Vision	FPAP_02	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	Del	462	JAODOY010000300.1:13415	22	0		Vision	IRGN_F4SKNH2C3N	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	Del	462	JAODOY010000300.1:13415	20	0		Vision	TJN_100	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	Del	462	JAODOY010000300.1:13415	30	0		Vision	UTTC_102	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	495	JAODOY010000300.1:13442	36	0		Vision	FPAP_01	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	495	JAODOY010000300.1:13442	20	0		Vision	FPAP_02	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	495	JAODOY010000300.1:13442	21	0		Vision	IRGN_F4SKNH2C3N	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	495	JAODOY010000300.1:13442	25	0		Vision	TJN_100	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	495	JAODOY010000300.1:13442	34	0		Vision	UTTC_102	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	606	JAODOY010000300.1:13541	23	0		Vision	FPAP_01	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	606	JAODOY010000300.1:13541	10	0		Vision	FPAP_02	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	606	JAODOY010000300.1:13541	21	0		Vision	IRGN_F4SKNH2C3N	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	606	JAODOY010000300.1:13541	23	0		Vision	TJN_100	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	606	JAODOY010000300.1:13541	31	0		Vision	UTTC_102	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	780	JAODOY010000300.1:13702	14	0		Vision	FPAP_01	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	780	JAODOY010000300.1:13702	5	0		Vision	FPAP_02	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	780	JAODOY010000300.1:13702	32	0		Vision	IRGN_F4SKNH2C3N	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	780	JAODOY010000300.1:13702	26	0		Vision	TJN_100	Detected on Assembly	
+Forbesichthys_papilliferus	Opn7c	STOP	780	JAODOY010000300.1:13702	19	0		Vision	UTTC_102	Detected on Assembly	
+Amblyopsis_hoosieri	Opn7c	Del	462	JAODUE010065321.1:575	30	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	Opn7c	Del	462	JAODUE010065321.1:575	37	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	Opn7c	Del	462	JAODUE010065321.1:575	42	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	Opn7c	STOP	495	JAODUE010065321.1:540	28	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	Opn7c	STOP	495	JAODUE010065321.1:540	43	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	Opn7c	STOP	780	JAODUE010065321.1:540	39	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_hoosieri	Opn7c	STOP	780	JAODUE010037734.1:236	49	0		Vision	MLN_0242	Detected on Assembly	
+Amblyopsis_hoosieri	Opn7c	STOP	780	JAODUE010037734.1:236	31	0		Vision	MLN_0243	Detected on Assembly	
+Amblyopsis_hoosieri	Opn7c	STOP	495	JAODUE010037734.1:236	39	0		Vision	MLN_0246	Detected on Assembly	
+Amblyopsis_rosae	Opn7c	STOP	495	JAODTR010003735.1:12113	25	0		Vision	C3	Detected on Assembly	
+Amblyopsis_rosae	Opn7c	STOP	495	JAODTR010003735.1:12113	28	0		Vision	C5	Detected on Assembly	
+Amblyopsis_rosae	Opn7c	STOP	495	JAODTR010003735.1:12113	20	0		Vision	L1	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	STOP	1518	JAODUH010009317.1:4918	33	0		Vision	MLN_18	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	STOP	1518	JAODUH010009317.1:4918	15	0		Vision	MLN_0051	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	STOP	1518	JAODUH010009317.1:4918	32	0		Vision	MLN_0272	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	STOP	1518	JAODUH010009317.1:4918	1	0		Vision	MLN_0296	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	STOP	1518	JAODUH010009317.1:4918	18	0		Vision	UAIC_14148	Detected on Assembly	
+Typhlichthys_subterraneus	grk1b	STOP	1512	JAODUH010009317.1:4925	0	32		Vision	MLN_18	Detected on IGV	GAG => TAG
+Typhlichthys_subterraneus	grk1b	STOP	1512	JAODUH010009317.1:4925	0	19		Vision	MLN_0051	Detected on IGV	GAG => TAG
+Typhlichthys_subterraneus	grk1b	STOP	1512	JAODUH010009317.1:4925	30	0		Vision	MLN_0272	Detected on IGV	GAG => TAG
+Typhlichthys_subterraneus	grk1b	STOP	1512	JAODUH010009317.1:4925	0	2		Vision	MLN_0296	Detected on IGV	GAG => TAG
+Typhlichthys_subterraneus	grk1b	STOP	1512	JAODUH010009317.1:4925	0	17		Vision	UAIC_14148	Detected on IGV	GAG => TAG
